@@ -1,2 +1,2 @@
-# convolution-Neural-Network_Mnist-Data.
-convolution Neural Network uses Pytorch and Numpy on Mnist-Data.
+# Mnist-Data-Pytorch-Numpy.
+Convolution Neural Network uses Pytorch and Numpy on Mnist-Data.
